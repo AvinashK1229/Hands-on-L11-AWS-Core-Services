@@ -136,7 +136,3 @@ Include the following images in the `/screenshots` folder:
 
 ---
 
-## ✅ Author
-**Hrushitha Goud Tigulla**  
-Graduate Student – UNC Charlotte  
-Course: *Cloud Computing for Data Analytics*
